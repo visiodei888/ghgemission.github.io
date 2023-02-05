@@ -1,0 +1,65 @@
+body {
+    background-image: url('https://dailyenergyinsider.com/wp-content/uploads/2020/01/shutterstock_1508035151.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}
+
+
+.m{
+    height: 100px;
+    width: 100px;
+    margin-left: 620px;
+    margin-top: 70px;
+}
+
+.pa{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    color: black;
+    padding-top: 1px;
+    font-weight: bold;
+}
+
+#us{
+    color: black;
+    margin-left: 330px;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+#b{
+    width: 300px;
+    margin-left: 60px;
+    height: 30px;
+    border-radius: 9px;
+    background-color:whitesmoke;
+}
+
+::placeholder{
+    color: #3FB635;
+    text-align: center;
+}
+
+#log{
+    margin-left: 630px;
+    width: 150px;
+    height: 27px;
+    color: #3FB635;
+    background-color: whitesmoke;
+}
+
+#nu{
+    margin-left: 850px;
+    color:#E90000;
+    font-weight: 400;
+}
+
+#n{
+    margin-left: 840px;
+    color: #E90000;
+    font-weight: 400;
+}
+
